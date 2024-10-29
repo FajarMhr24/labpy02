@@ -42,8 +42,7 @@ jika kurang dari 3.000.000. maka akan mencetak "tidak perlu ikutan asuransi"
 
 `if punya_rumah` kalau true akan mencetak "wajib bayar pajak rumah"
 
-![foto](https://github.com/FajarMhr24/flochart/blob/21fb1ac4d0f3331386a6775046b290b4bdb5cd85/Screenshot%202024-10-28%20195438.png)
-
+![foto](https://github.com/FajarMhr24/flochart/blob/e4e0d2060ceba52701da5e58b4c039a7093b7fd4/flowchart%20gaji.jpg)
 ## hasil kode program
 ![foto](https://github.com/FajarMhr24/foto/blob/492c714306d201bdf34039d4c17f1e654f025ed4/Screenshot%202024-10-28%20232514.png)
 
@@ -71,7 +70,7 @@ Jika akhir > 50: Huruf diisi "C".
 Jika akhir > 40: Huruf diisi "D".
 
 `else`: Menangani semua kondisi lainnya (yaitu jika nilai akhir ≤ 40). Dalam kasus ini, huruf diisi dengan "E".
-![foto](https://github.com/FajarMhr24/flochart/blob/21fb1ac4d0f3331386a6775046b290b4bdb5cd85/Screenshot%202024-10-28%20201753.png)
+![foto](https://github.com/FajarMhr24/flochart/blob/41fa20c572fe21a484cb60834afcec1e7f755fca/flowchart%20nilai.jpg)
 
 ## hasil kode program
 ![foto](https://github.com/FajarMhr24/foto/blob/79664b7b9c1333df29b5a7e5dae60188e6dadfcd/Screenshot%202024-10-28%20231944.png)
@@ -132,8 +131,7 @@ Kondisi else:
 
 Jika pengguna bukan anggota (status_member bukan "Y"), maka `harga_akhir` diatur sama dengan `harga_tiket` tanpa diskon
 
-![foto](https://github.com/FajarMhr24/flochart/blob/21fb1ac4d0f3331386a6775046b290b4bdb5cd85/Screenshot%202024-10-28%20201547.png)
-
+![foto](https://github.com/FajarMhr24/flochart/blob/d002b35d79150e945fd4b000acd25b71cad136e7/flowchart%20tiket%20bioskop.jpg)
 ## hasil kode program
 ![foto](https://github.com/FajarMhr24/foto/blob/8f46e97550d17eb2533605b6dac2aea63f3502e7/Screenshot%202024-10-28%20233327.png)
 
@@ -178,7 +176,7 @@ else:
 Jika semua kondisi sebelumnya tidak terpenuhi (misalnya, pengguna memasukkan operator yang tidak valid), maka blok `else` dieksekusi.
 
 Program akan mencetak pesan bahwa operator tidak valid dan meminta pengguna untuk memasukkan operator yang benar.
-![foto](https://github.com/FajarMhr24/flochart/blob/21fb1ac4d0f3331386a6775046b290b4bdb5cd85/Screenshot%202024-10-28%20192926.png)
+![foto](https://github.com/FajarMhr24/flochart/blob/f74809b52afd06b08d056d17116994dd6e36d442/flowchart%20kalkulator.jpg))
 
 ## hasil kode program
 ![foto](https://github.com/FajarMhr24/foto/blob/20fa2a3b3fe0b5a2783e5257952e52aa7ac739d7/Screenshot%202024-10-28%20233624.png)
