@@ -44,7 +44,7 @@ jika kurang dari 3.000.000. maka akan mencetak "tidak perlu ikutan asuransi"
 
 ![foto](https://github.com/FajarMhr24/flochart/blob/e4e0d2060ceba52701da5e58b4c039a7093b7fd4/flowchart%20gaji.jpg)
 ## hasil kode program
-![foto](https://github.com/FajarMhr24/foto/blob/492c714306d201bdf34039d4c17f1e654f025ed4/Screenshot%202024-10-28%20232514.png)
+![foto](https://github.com/FajarMhr24/foto/blob/401b430c11f856b56ceaf2f1edd39c6405c377f2/Screenshot%202024-10-28%20232514.png)
 
 ## pengunaan `if`,`else` dan `elif` untuk nilai 
 ```python
@@ -73,7 +73,7 @@ Jika akhir > 40: Huruf diisi "D".
 ![foto](https://github.com/FajarMhr24/flochart/blob/41fa20c572fe21a484cb60834afcec1e7f755fca/flowchart%20nilai.jpg)
 
 ## hasil kode program
-![foto](https://github.com/FajarMhr24/foto/blob/79664b7b9c1333df29b5a7e5dae60188e6dadfcd/Screenshot%202024-10-28%20231944.png)
+![foto](https://github.com/FajarMhr24/foto/blob/401b430c11f856b56ceaf2f1edd39c6405c377f2/Screenshot%202024-10-28%20231944.png)
 
 ## pengunaan kondisi `OR`
 
@@ -86,7 +86,7 @@ Operator `or` digunakan untuk menggabungkan beberapa kondisi. Jika salah satu da
 ![foto](https://github.com/FajarMhr24/flochart/blob/21fb1ac4d0f3331386a6775046b290b4bdb5cd85/Screenshot%202024-10-28%20201931.png)
 
 ## hasil kode program
-![foto](https://github.com/FajarMhr24/foto/blob/d6a165a75d12f63134d811c04378fca2f3266dc1/Screenshot%202024-10-28%20232740.png))
+![foto](https://github.com/FajarMhr24/foto/blob/401b430c11f856b56ceaf2f1edd39c6405c377f2/Screenshot%202024-10-28%20232740.png))
 
 ## pengunaan `if`, `else` dan `elif` untuk tiket bioskop
 
@@ -133,7 +133,7 @@ Jika pengguna bukan anggota (status_member bukan "Y"), maka `harga_akhir` diatur
 
 ![foto](https://github.com/FajarMhr24/flochart/blob/d002b35d79150e945fd4b000acd25b71cad136e7/flowchart%20tiket%20bioskop.jpg)
 ## hasil kode program
-![foto](https://github.com/FajarMhr24/foto/blob/8f46e97550d17eb2533605b6dac2aea63f3502e7/Screenshot%202024-10-28%20233327.png)
+![foto](https://github.com/FajarMhr24/foto/blob/401b430c11f856b56ceaf2f1edd39c6405c377f2/Screenshot%202024-10-28%20233327.png)
 
 ## penggunaa `if`, `elif` dan `else 
 
@@ -179,4 +179,4 @@ Program akan mencetak pesan bahwa operator tidak valid dan meminta pengguna untu
 ![foto](https://github.com/FajarMhr24/flochart/blob/f74809b52afd06b08d056d17116994dd6e36d442/flowchart%20kalkulator.jpg))
 
 ## hasil kode program
-![foto](https://github.com/FajarMhr24/foto/blob/20fa2a3b3fe0b5a2783e5257952e52aa7ac739d7/Screenshot%202024-10-28%20233624.png)
+![foto](https://github.com/FajarMhr24/foto/blob/401b430c11f856b56ceaf2f1edd39c6405c377f2/Screenshot%202024-10-28%20233624.png)
